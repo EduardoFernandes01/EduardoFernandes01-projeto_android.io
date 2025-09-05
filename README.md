@@ -1,3 +1,3 @@
 # projeto_android
 Projeto de Pagina Sobre o Android
-Link para a Página Criada: [[https://github.com/EduardoFernandes01/projeto_android/blob/main/index.html](https://github.com/EduardoFernandes01/projeto_android/blob/main/index.html)](https://eduardofernandes01.github.io/EduardoFernandes01-projeto_android.io/)
+Link para a Página Criada: (https://eduardofernandes01.github.io/EduardoFernandes01-projeto_android.io/)
